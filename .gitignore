@@ -1,0 +1,8 @@
+# Ignore Chicago Data
+chicago.csv
+
+# Ignore New York Data
+newyork_city.csv
+
+# Ignore Washington Data
+washington.csv
