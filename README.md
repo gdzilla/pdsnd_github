@@ -22,5 +22,9 @@ newyork_city.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+# Git Hub help
+https://help.github.com/en/articles/changing-a-commit-message#commit-has-not-been-pushed-online
+
+# Udacity style guide
+https://udacity.github.io/git-styleguide/
