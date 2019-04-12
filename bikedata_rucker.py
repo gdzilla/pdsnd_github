@@ -263,7 +263,6 @@ def disp_data(df):
 <<<<<<< HEAD
     # Displays raw user request
 =======
-    # Provide an option to view raw data
 >>>>>>> master
     raw_start = 0 # start
     raw_end = 5   # cycle ends
